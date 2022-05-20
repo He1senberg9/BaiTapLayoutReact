@@ -1,0 +1,11 @@
+footer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(70, 70, 70);
+    color: white;
+    height: 5rem;
+}
+footer p {
+    margin: 0;
+}

@@ -1,0 +1,8 @@
+.banner {
+    background-color: rgba(102, 74, 227, 0.356);
+    padding: 3rem 2rem;
+}
+.banner h1 {
+    font-weight: 400;
+    font-size: 3rem;
+}

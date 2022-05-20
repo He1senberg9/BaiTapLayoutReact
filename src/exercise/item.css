@@ -1,0 +1,22 @@
+.image_ {
+    width: 100%;
+    height: 325px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: grey;
+}
+.image_ h1 {
+    color: rgba(0, 0, 0, 0.29);
+}
+.card-body {
+    text-align: center;
+}
+.card-body p:last-child{
+    margin-bottom: 1rem;
+}
+.button_ {
+    background-color: rgba(175, 175, 175, 0.367);
+    text-align: center;
+    padding: 0.5rem 0;
+}

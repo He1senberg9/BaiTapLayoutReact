@@ -1,0 +1,9 @@
+.row_ {
+    display: flex;
+    flex-wrap: nowrap;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+}
+.col_ {
+    width: 25%;
+}
